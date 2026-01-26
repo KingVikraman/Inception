@@ -1,0 +1,38 @@
+# Environment variables (contains passwords)
+srcs/.env
+
+# Secret files (contain passwords)
+srcs/secrets/*.txt
+srcs/secrets/credentials.txt
+srcs/secrets/db_password.txt
+srcs/secrets/db_root_password.txt
+
+# Data directories (generated at runtime)
+data/
+/home/*/data/
+
+# Docker volumes and generated data
+*.log
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vimrc
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+

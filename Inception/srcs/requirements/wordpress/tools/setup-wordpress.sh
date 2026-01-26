@@ -1,6 +1,3 @@
-wordpress.sh
-#!/bin/bash
-
 cd /var/www/html
 
 if [ ! -f wp-config.php ]; then
