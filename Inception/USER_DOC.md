@@ -1,3 +1,4 @@
+This Project has been created as part of the 42 curriculum by rvikrama
 # User Documentation - Inception
 
 This guide explains how to use and manage the Inception WordPress infrastructure.

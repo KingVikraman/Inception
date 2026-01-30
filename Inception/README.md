@@ -1,4 +1,5 @@
 # Inception [RVIKRAMA]
+This Project has been created as part of the 42 curriculum by rvikrama.
 
 A system administration project that sets up a small infrastructure using Docker containers.
 
